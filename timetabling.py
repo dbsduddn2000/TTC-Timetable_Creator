@@ -9,6 +9,7 @@ for i in time:
 timealpa = [[0]*18] # transform the time (ex: 2A -> 10:00) we will save starting time.
 timenum = [[0]*18]
 startclass = 9
+timeday = {'월','화','수','목','금','토'}
 
 for i in range(1):
     for j in range(18):
